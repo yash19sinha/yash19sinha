@@ -1,5 +1,6 @@
 # 💫 About Me:
 🔭 I’m a web developer from India<br>
+🎓 Currently Pursuing B.E in Computer Engineering<br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yash19sinha&label=Profile%20views&color=0e75b6&style=flat" alt="yash19sinha" /> </p>
 
